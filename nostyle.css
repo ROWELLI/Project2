@@ -1,0 +1,24 @@
+.title{
+    margin-top: 16px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text{
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.sub_text{
+    padding-left: 30px;
+    font-size: 16px;
+}
+.sub_title{
+    margin-top: 16px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.title_sub{
+    margin-top: 16px;
+    font-size: 19px;
+    font-weight: bold;
+}
